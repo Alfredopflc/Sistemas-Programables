@@ -11,6 +11,8 @@
 ## Conformación de los equipos por integrantes:
 C0.1_JoseAlfredoVenegasMedina_Verde.md : [Aqui](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C0.1_JoseAlfredoVenegasMedina_Verde.md)
 
+
+
 ## Conceptos de Industria 4.0 e IOT
 C0.2_JoseAlfredoVenegasMedina_Verde.md: [Aqui](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C0.2_JoseAlfredoVenegasMedina_Verde.md)
 
