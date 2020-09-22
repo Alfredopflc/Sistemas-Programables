@@ -8,7 +8,7 @@
 Jose Alfredo Venegas Medina 17211517
 Repositorio personal para la materia de Sistemas Programables
 
-##Contenido
+## Contenido
 
 ### Introduccion:
  - [C0.1 - Formacion de Equipos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C0.1_JoseAlfredoVenegasMedina_Verde.md)
