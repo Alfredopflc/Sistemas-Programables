@@ -11,7 +11,7 @@ Repositorio personal para la materia de Sistemas Programables
 ##Contenido
 
 ### Introduccion:
- - [C0.1_- Formacion de Equipos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C0.1_JoseAlfredoVenegasMedina_Verde.md)
+ - [C0.1 - Formacion de Equipos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C0.1_JoseAlfredoVenegasMedina_Verde.md)
  - [C0.2 - Industria 4.0 e IoT](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C0.2_JoseAlfredoVenegasMedina_Verde.md)
 
 
