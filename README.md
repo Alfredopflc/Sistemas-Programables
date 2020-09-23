@@ -5,8 +5,8 @@
   <img width="350" height="200" src="https://www.matamoros.tecnm.mx/wp-content/uploads/2017/05/Logo-TecNM-2017-Ganador.png">
 </p>
 
-Jose Alfredo Venegas Medina 17211517
-Repositorio personal para la materia de Sistemas Programables
+- Jose Alfredo Venegas Medina 17211517
+- Repositorio personal para la materia de Sistemas Programables
 
 ## Contenido
 
