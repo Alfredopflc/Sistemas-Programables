@@ -5,8 +5,14 @@
   <img width="350" height="200" src="https://www.matamoros.tecnm.mx/wp-content/uploads/2017/05/Logo-TecNM-2017-Ganador.png">
 </p>
 
+- REPOSITORIO PERSONAL PARA LA MATERIA DE SISTEMAS PROGRAMABLES 
 - Jose Alfredo Venegas Medina 17211517
-- Repositorio personal para la materia de Sistemas Programables
+- Equipo: Verde
+- Materia: Sistemas Programables
+- Carrera: Ingenieria en Sistemas Computacionales
+- Asesor: Jaime Leonardo Enriquez Alvarez
+
+
 
 ## Contenido
 
