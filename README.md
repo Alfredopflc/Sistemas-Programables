@@ -16,7 +16,7 @@
 
 ## Contenido
 
-### Introduccion:
+###  :blue_book: Introduccion:
  - :star: [C0.1 - Formacion de Equipos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C0.1_JoseAlfredoVenegasMedina_Verde.md)
  - :star: [C0.2 - Industria 4.0 e IoT](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C0.2_JoseAlfredoVenegasMedina_Verde.md)
  
