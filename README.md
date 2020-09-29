@@ -27,8 +27,8 @@
  ### 🎇 Sensores
  -  ✩ [C1.3_Circuito electrónico para uso con sensores y transductores](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C1.3_JoseAlfredoVenegasMedina_Verde.md)
  
- ### Evaluaciones
- - :pencil: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
+ ### :pencil: Evaluaciones
+ - :star: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
 
 
 
