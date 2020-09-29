@@ -23,6 +23,12 @@
 ### :battery: Fundamentos de electrónica básica:
  - :star: [C1.1 Cuestionario electrónica básica y sus elementos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C1.1_JoseAlfredoVenegasMedina_Verde.md)
  - :star: [C1.2 Conceptos de electrónica básica y circuitos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C1.2_JoseAlfredoVenegasMedina_Verde.md)
+ 
+ ### 🎇 Sensores
+ -  ✩ [C1.3_Circuito electrónico para uso con sensores y transductores](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C1.3_JoseAlfredoVenegasMedina_Verde.md)
+ 
+ ### :pencil: Evaluaciones
+ - :star: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
 
 
 
