@@ -27,9 +27,9 @@
  ### 🎇 Sensores
  -  :star: [C1.3_Circuito electrónico para uso con sensores y transductores](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C1.3_JoseAlfredoVenegasMedina_Verde.md)
  - :star: [A.1.2 Sensor Fotoresistivo](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.2_JoseAlfredoVenegasMedina_Verde.md)
- - ✩ [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C1.4_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C1.4_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [A.1.3  Realizar una investigación y presentación para ser expuesta en clase sobre el tema de sensores](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.3_JoseAlfredoVenegasMedina_Verde.md)
- - ✩ [C1.5 Tipo de sensores de acuerdo con su uso aplicativo](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C1.5_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [C1.5 Tipo de sensores de acuerdo con su uso aplicativo](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C1.5_JoseAlfredoVenegasMedina_Verde.md)
  
  ### :pencil: Evaluaciones
  - :star: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
