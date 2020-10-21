@@ -1,0 +1,76 @@
+<mxfile host="65bd71144e" modified="2020-10-21T06:55:27.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.50.1 Chrome/83.0.4103.122 Electron/9.2.1 Safari/537.36" version="13.6.5" etag="D0mLTKp_HBzJdc2zsqqP">
+    <diagram id="TtTSq6dbiPGls-K_1y0A" name="Página-1">
+        <mxGraphModel dx="1118" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;Motores &lt;br&gt;Eléctricos&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=28;" vertex="1" parent="1">
+                    <mxGeometry y="515" width="150" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="150" width="20" height="830" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Clasificación" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="90" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Principio de Funcionamiento" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="90" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Motor de Corriente &lt;br&gt;Continua&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="200" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;h5 style=&quot;text-align: justify&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Se tienen dos polos, se aplica una corriente continua&amp;nbsp;&lt;br&gt;y en&amp;nbsp;función de mayor voltaje,&amp;nbsp;mayor velocidad si se&amp;nbsp;&lt;br&gt;aplica la&amp;nbsp;&amp;nbsp;corriente en sentido contrario, el motor girara&amp;nbsp;&lt;br&gt;al lado contrario.&lt;/font&gt;&lt;/h5&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="143" width="360" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Motor Paso a paso&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="340" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;h6 style=&quot;text-align: justify&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Se introduce voltaje de referencia que tenga y en función&amp;nbsp;&lt;br&gt;de eso va girando&amp;nbsp;&amp;nbsp;&quot;a pasitos&quot; esto gracias a que se van&amp;nbsp;&lt;br&gt;imantando las puntas, aproximadamente da&amp;nbsp;&amp;nbsp;3200 pasos&amp;nbsp;&lt;br&gt;por vuelta, son de mucha precisión pero consumen&amp;nbsp;&lt;br&gt;demasiada energía, y la posición es relativa.&lt;/font&gt;&lt;/h6&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="405" y="278" width="420" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Motor Brushless&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="500" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;h6 style=&quot;text-align: justify&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Puede girar la parte de fuera o la carcasa depende de que&lt;br&gt;&lt;span&gt;tipo sea. Tiene que llevar una señal muy especifica,&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span&gt;deben tener un driver específico el cual tú marcas&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span&gt;la velocidad que quieres que gire. Tienen mucha precisión.&lt;/span&gt;&lt;/font&gt;&lt;/h6&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="463" width="410" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Servomotor&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="640" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;h6 style=&quot;text-align: justify&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Es un motor de corriente continua con engranajes y&amp;nbsp;&lt;br&gt;encoder, es posible indicarle los grados donde&amp;nbsp;&amp;nbsp;se&amp;nbsp;&lt;br&gt;quiere que gire y es totalmente fijo. Transforma&amp;nbsp;&lt;br&gt;el movimiento mecánico en pulsos digitales.&lt;/font&gt;&lt;/h6&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="633" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Electroimán&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="760" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;h5 style=&quot;text-align: justify&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font&gt;&lt;font&gt;Si se conecta voltaje se queda fijo en una posición, si se&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font&gt;quita el voltaje se desconecta.&amp;nbsp; Fuerza limitada.&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;font&gt;Utilizan fuerza electromagnética para producir movimiento&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;variable.&lt;/font&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/h5&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="670" width="540" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Motores CA&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="910" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;h5 style=&quot;text-align: justify&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font&gt;Funcionan con corriente alterna, transforma energía&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;font&gt;eléctrica en energía mecánica de rotación.&lt;/font&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="913" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="908" width="20" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="173" width="20" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="308" width="20" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="463" width="20" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="608" width="20" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="733" width="20" height="100" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
