@@ -24,7 +24,7 @@
  - :star: [C1.1 Cuestionario electrónica básica y sus elementos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C1.1_JoseAlfredoVenegasMedina_Verde.md)
  - :star: [C1.2 Conceptos de electrónica básica y circuitos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C1.2_JoseAlfredoVenegasMedina_Verde.md)
  
- ### 🎇 UNIDAD 1: 🎇 Sensores
+ ### 🎇 UNIDAD 1: Sensores
  -  :star: [C1.3_Circuito electrónico para uso con sensores y transductores](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C1.3_JoseAlfredoVenegasMedina_Verde.md)
  - :star: [A.1.2 Sensor Fotoresistivo](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.2_JoseAlfredoVenegasMedina_Verde.md)
  - :star: [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C1.4_JoseAlfredoVenegasMedina_Verde.md)
