@@ -32,6 +32,7 @@
  - :star: [C1.5 Tipo de sensores de acuerdo con su uso aplicativo](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C1.5_JoseAlfredoVenegasMedina_Verde.md)
  - :star: [A.1.4 Realizar un sensor medidor de temperatura a través de un circuito electrónico, utilizando un simulador, y un Transistor TMP36.](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.4_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [C2.1 Cuestionario Actuadores y su clasificacion](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C2.1_JoseAlfredoVenegasMedina_Verde.md)
+ - ✩ [C2.2 Cuestionario Actuadores Eléctricos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C2.2_JoseAlfredoVenegasMedina_Verde.md)
  
  ### :pencil: Evaluaciones
  - :star: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
