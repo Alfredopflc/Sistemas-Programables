@@ -35,7 +35,7 @@
  ### :gear: UNIDAD 2: Actuadores
  - ✩ [C2.1 Cuestionario Actuadores y su clasificacion](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C2.1_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [C2.2 Cuestionario Actuadores Eléctricos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C2.2_JoseAlfredoVenegasMedina_Verde.md)
- - ✩ [C2.3 Circuito temporizador 555](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C2.3_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [C2.3 Circuito temporizador 555](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C2.3_JoseAlfredoVenegasMedina_Verde.md)
  
  ### :pencil: Evaluaciones
  - :star: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
