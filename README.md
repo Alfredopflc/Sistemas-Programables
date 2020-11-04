@@ -37,6 +37,7 @@
  - ✩ [C2.2 Cuestionario Actuadores Eléctricos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C2.2_JoseAlfredoVenegasMedina_Verde.md)
  - :star: [C2.3 Circuito temporizador 555](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C2.3_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [A2.1 Investigación sobre actuadores eléctricos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A2.1_JoseAlfredoVenegasMedina_Verde.md)
+ - ✩ [A2.2 Circuito temporizador 555 y motor eléctrico](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A2.2_JoseAlfredoVenegasMedina_Verde.md)
  
  ### :pencil: Evaluaciones
  - :star: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
