@@ -39,6 +39,10 @@
  - ✩ [A2.1 Investigación sobre actuadores eléctricos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A2.1_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [A2.2 Circuito temporizador 555 y motor eléctrico](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A2.2_JoseAlfredoVenegasMedina_Verde.md)
  
+ ### :space_invader: UNIDAD 3: Microcontroladores y programación
+ - ✩ [C3.1 Arduino IDE Salida Digital](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.1_JoseAlfredoVenegasMedina_Verde.md)
+ - ✩ [C3.2 Arduino IDE Entrada Digital e impresion serial](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.2_JoseAlfredoVenegasMedina_Verde.md)
+ 
  ### :pencil: Evaluaciones
  - :star: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
 
