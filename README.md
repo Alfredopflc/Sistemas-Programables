@@ -43,7 +43,7 @@
  - ✩ [C3.1 Arduino IDE Salida Digital](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.1_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [C3.2 Arduino IDE Entrada Digital e impresion serial](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.2_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [C3.3 Arduino IDE Entrada Analoga y funcion serial](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.3_JoseAlfredoVenegasMedina_Verde..md)
- - ✩ [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.4_JoseAlfredoVenegasMedina_Verde..md)
+ - :star: [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.4_JoseAlfredoVenegasMedina_Verde..md)
  ### :pencil: Evaluaciones
  - :star: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
 
