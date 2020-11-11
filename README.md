@@ -33,8 +33,8 @@
  - :star: [A.1.4 Realizar un sensor medidor de temperatura a través de un circuito electrónico, utilizando un simulador, y un Transistor TMP36.](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.4_JoseAlfredoVenegasMedina_Verde.md)
  
  ### :gear: UNIDAD 2: Actuadores
- - ✩ [C2.1 Cuestionario Actuadores y su clasificacion](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C2.1_JoseAlfredoVenegasMedina_Verde.md)
- - ✩ [C2.2 Cuestionario Actuadores Eléctricos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C2.2_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [C2.1 Cuestionario Actuadores y su clasificacion](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C2.1_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [C2.2 Cuestionario Actuadores Eléctricos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C2.2_JoseAlfredoVenegasMedina_Verde.md)
  - :star: [C2.3 Circuito temporizador 555](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C2.3_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [A2.1 Investigación sobre actuadores eléctricos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A2.1_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [A2.2 Circuito temporizador 555 y motor eléctrico](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A2.2_JoseAlfredoVenegasMedina_Verde.md)
@@ -43,7 +43,7 @@
  - ✩ [C3.1 Arduino IDE Salida Digital](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.1_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [C3.2 Arduino IDE Entrada Digital e impresion serial](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.2_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [C3.3 Arduino IDE Entrada Analoga y funcion serial](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.3_JoseAlfredoVenegasMedina_Verde..md)
- 
+ - :star: [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.4_JoseAlfredoVenegasMedina_Verde..md)
  ### :pencil: Evaluaciones
  - :star: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
 
