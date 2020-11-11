@@ -1,0 +1,48 @@
+#include <LiquidCrystal.h>
+//Se incluye libreria LiquidCrystal
+LiquidCrystal lcd(7,6,5,4,3,2);
+
+/*Aquí se configuran los pines donde debemos conectar el sensor*/
+int TRIGGER_PIN=13;
+int ECHO_PIN=12;
+int MAX_DISTANCE;
+int tiempo;
+ 
+/*Iniciar monitor y señalamos nuestras variables como salida o entrada segun el caso */
+void setup() {
+  Serial.begin(9600); 
+  pinMode(TRIGGER_PIN, OUTPUT);
+  pinMode(ECHO_PIN, INPUT);  
+}
+ 
+/*Calculamos el valor obtenido en cm*/
+void loop() {
+  lcd.begin(16,2);
+  digitalWrite(TRIGGER_PIN, HIGH);
+  delay(1);
+  digitalWrite(TRIGGER_PIN, LOW);
+  tiempo = pulseIn(ECHO_PIN, HIGH);
+  MAX_DISTANCE = tiempo/58;
+  
+  if(MAX_DISTANCE >= 335){
+    lcd.setCursor(0,0);
+    lcd.print("OBJETIVO FUERA");
+    lcd.setCursor(0,1);
+    lcd.print("DE RANGO");
+    Serial.println("NA");
+  }
+  
+  else{
+    lcd.setCursor(0,0);
+    lcd.print("OBJETIVO DETECTA");
+    lcd.setCursor(0,1);
+    lcd.print("DO A ");
+    lcd.setCursor(6,1);
+    lcd.print(MAX_DISTANCE);
+    lcd.setCursor(10,1);
+    lcd.print(" cm");
+    Serial.print(MAX_DISTANCE),
+    Serial.println(" cm");
+  }
+  delay(1000);
+}
