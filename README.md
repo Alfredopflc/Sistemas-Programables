@@ -49,7 +49,7 @@
   
  ### :pencil: Evaluaciones
  - :star: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
- - ✩ [C3.5 Evaluacion de conceptos de Microcontroladores](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.5_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [C3.5 Evaluacion de conceptos de Microcontroladores](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.5_JoseAlfredoVenegasMedina_Verde.md)
 
 
 
