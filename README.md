@@ -47,6 +47,7 @@
  - ✩ [A.3.1 Circuito sensor de deteccion de objetos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A3.1_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [C3.6 Arduino IDE, ESP32 y Entrada Analogica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.6_JoseAlfredoVenegasMedina_Verde.md)
  - :star: [C3.7 Arduino IDE, ESP32 y PWM](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.7_JoseAlfredoVenegasMedina_Verde.md)
+ - ✩ [ C3.8 Arduino IDE, ESP32 y Sensor Touch](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.8_JoseAlfredoVenegasMedina_Verde.md)
   
  ### :pencil: Evaluaciones
  - :star: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
