@@ -1,5 +1,5 @@
 //Seleccionamos que el GPIO16 sera la que usaremos
-const int ledPin = 16;
+const int ledPin = 17;
 
 //Propiedades de PWM
 const int freq = 5000;
@@ -19,13 +19,17 @@ void loop() {
   for(int dutyCycle = 0; dutyCycle <= 255; dutyCycle++){
     //se cambia el brillo del LED segun el valor de dutyCycle
     ledcWrite(ledChannel, dutyCycle);
-    delay(15);
+    delay(25);
   }
+
+  delay(1000);
   
   //Disminuye el brillo del LED cuando el valor de dutyCycle es 255
   for(int dutyCycle = 255; dutyCycle >= 0; dutyCycle--){
     //se cambia el brillo del LED segun el valor de dutyCycle
     ledcWrite(ledChannel, dutyCycle);
-    delay(15);
+    delay(25);
   }
+
+  delay(1000);
 }
