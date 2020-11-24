@@ -36,8 +36,8 @@
  - :star: [C2.1 Cuestionario Actuadores y su clasificacion](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C2.1_JoseAlfredoVenegasMedina_Verde.md)
  - :star: [C2.2 Cuestionario Actuadores Eléctricos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C2.2_JoseAlfredoVenegasMedina_Verde.md)
  - :star: [C2.3 Circuito temporizador 555](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C2.3_JoseAlfredoVenegasMedina_Verde.md)
- - ✩ [A2.1 Investigación sobre actuadores eléctricos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A2.1_JoseAlfredoVenegasMedina_Verde.md)
- - ✩ [A2.2 Circuito temporizador 555 y motor eléctrico](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A2.2_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [A2.1 Investigación sobre actuadores eléctricos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A2.1_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [A2.2 Circuito temporizador 555 y motor eléctrico](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A2.2_JoseAlfredoVenegasMedina_Verde.md)
  
  ### :space_invader: UNIDAD 3: Microcontroladores y programación
  - ✩ [C3.1 Arduino IDE Salida Digital](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.1_JoseAlfredoVenegasMedina_Verde.md)
@@ -45,7 +45,8 @@
  - ✩ [C3.3 Arduino IDE Entrada Analoga y funcion serial](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.3_JoseAlfredoVenegasMedina_Verde..md)
  - :star: [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.4_JoseAlfredoVenegasMedina_Verde..md)
  - ✩ [A.3.1 Circuito sensor de deteccion de objetos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A3.1_JoseAlfredoVenegasMedina_Verde.md)
-  - ✩ [C3.6 Arduino IDE, ESP32 y Entrada Analogica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.6_JoseAlfredoVenegasMedina_Verde.md)
+ - ✩ [C3.6 Arduino IDE, ESP32 y Entrada Analogica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.6_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [C3.7 Arduino IDE, ESP32 y PWM](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.7_JoseAlfredoVenegasMedina_Verde.md)
   
  ### :pencil: Evaluaciones
  - :star: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
