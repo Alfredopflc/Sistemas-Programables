@@ -40,13 +40,14 @@
  - :star: [A2.2 Circuito temporizador 555 y motor eléctrico](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A2.2_JoseAlfredoVenegasMedina_Verde.md)
  
  ### :space_invader: UNIDAD 3: Microcontroladores y programación
- - ✩ [C3.1 Arduino IDE Salida Digital](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.1_JoseAlfredoVenegasMedina_Verde.md)
- - ✩ [C3.2 Arduino IDE Entrada Digital e impresion serial](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.2_JoseAlfredoVenegasMedina_Verde.md)
- - ✩ [C3.3 Arduino IDE Entrada Analoga y funcion serial](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.3_JoseAlfredoVenegasMedina_Verde..md)
+ - :star: [C3.1 Arduino IDE Salida Digital](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.1_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [C3.2 Arduino IDE Entrada Digital e impresion serial](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.2_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [C3.3 Arduino IDE Entrada Analoga y funcion serial](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.3_JoseAlfredoVenegasMedina_Verde..md)
  - :star: [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.4_JoseAlfredoVenegasMedina_Verde..md)
  - ✩ [A.3.1 Circuito sensor de deteccion de objetos](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A3.1_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [C3.6 Arduino IDE, ESP32 y Entrada Analogica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.6_JoseAlfredoVenegasMedina_Verde.md)
  - :star: [C3.7 Arduino IDE, ESP32 y PWM](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.7_JoseAlfredoVenegasMedina_Verde.md)
+ - ✩ [ C3.8 Arduino IDE, ESP32 y Sensor Touch](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.8_JoseAlfredoVenegasMedina_Verde.md)
   
  ### :pencil: Evaluaciones
  - :star: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
