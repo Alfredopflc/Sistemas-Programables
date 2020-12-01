@@ -49,6 +49,7 @@
  - :star: [C3.7 Arduino IDE, ESP32 y PWM](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.7_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [C3.8 Arduino IDE, ESP32 y Sensor Touch](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.8_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A3.2_JoseAlfredoVenegasMedina_Verde.md)
+ - ✩ [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A3.3_JoseAlfredoVenegasMedina_Verde.md)
   
  ### :pencil: Evaluaciones
  - :star: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
