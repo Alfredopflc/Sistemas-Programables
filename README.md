@@ -56,6 +56,10 @@
  - ✩ [A4.1 Circuito de control para activar y desactivar un motor DC, utilizando NodeMCU ESP32 por medio de Bluetooth](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A4.1_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [C4.2 Comunicacion por medio del protocolo Wi-Fi](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C4.2_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A4.2_JoseAlfredoVenegasMedina_Verde.md)
+ 
+### :computer: UNIDAD 5: Interface
+- ✩ [C5.1 Arquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un sensor](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C5.1_JoseAlfredoVenegasMedina_Verde.md)
+- ✩ [C5.2 Arquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un actuador](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C5.2_JoseAlfredoVenegasMedina_Verde.md)
   
  ### :pencil: Evaluaciones
  - :star: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
