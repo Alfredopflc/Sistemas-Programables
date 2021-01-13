@@ -48,13 +48,13 @@
  - :star: [C3.6 Arduino IDE, ESP32 y Entrada Analogica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.6_JoseAlfredoVenegasMedina_Verde.md)
  - :star: [C3.7 Arduino IDE, ESP32 y PWM](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.7_JoseAlfredoVenegasMedina_Verde.md)
  - :star: [C3.8 Arduino IDE, ESP32 y Sensor Touch](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C3.8_JoseAlfredoVenegasMedina_Verde.md)
- - ✩ [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A3.2_JoseAlfredoVenegasMedina_Verde.md)
- - ✩ [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A3.3_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A3.2_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A3.3_JoseAlfredoVenegasMedina_Verde.md)
  
  ### :lock: UNIDAD 4: Protocolos de seguridad y comunicación
- - ✩ [C4.1  Protocolo Bluetooth y el NodeMCU ESP32](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C4.1_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [C4.1  Protocolo Bluetooth y el NodeMCU ESP32](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C4.1_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [A4.1 Circuito de control para activar y desactivar un motor DC, utilizando NodeMCU ESP32 por medio de Bluetooth](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A4.1_JoseAlfredoVenegasMedina_Verde.md)
- - ✩ [C4.2 Comunicacion por medio del protocolo Wi-Fi](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C4.2_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [C4.2 Comunicacion por medio del protocolo Wi-Fi](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C4.2_JoseAlfredoVenegasMedina_Verde.md)
  - ✩ [A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A4.2_JoseAlfredoVenegasMedina_Verde.md)
  
 ### :computer: UNIDAD 5: Interface
