@@ -58,8 +58,8 @@
  - ✩ [A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A4.2_JoseAlfredoVenegasMedina_Verde.md)
  
 ### :computer: UNIDAD 5: Interface
-- ✩ [C5.1 Arquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un sensor](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C5.1_JoseAlfredoVenegasMedina_Verde.md)
-- ✩ [C5.2 Arquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un actuador](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C5.2_JoseAlfredoVenegasMedina_Verde.md)
+- :star: [C5.1 Arquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un sensor](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C5.1_JoseAlfredoVenegasMedina_Verde.md)
+- :star: [C5.2 Arquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un actuador](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C5.2_JoseAlfredoVenegasMedina_Verde.md)
 - ✩ [A5.1 Actividad Final Identificación del color de un objeto](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A5.1_JoseAlfredoVenegasMedina_Verde.md)
   
  ### :pencil: Evaluaciones
