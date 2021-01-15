@@ -2,7 +2,7 @@
 
 // Sensor de Color
 //
-//    Arduino   TCS230 SENSOR COLOR
+//    ESP32   TCS230 SENSOR COLOR
 //      32         OUT
 //      33         S3
 //      25         S2
@@ -56,7 +56,7 @@ void loop() {
   digitalWrite(S3,HIGH);
   delay(100);
   Verde_Frec = pulseIn(sensorSalida, LOW);
- // Serial.print(" V= "); Serial.print(Verde_Frec);
+//  Serial.print(" V= "); Serial.print(Verde_Frec);
   delay(100);
   
 // Configura el filtro AZUL para tomar lectura
@@ -64,7 +64,7 @@ void loop() {
   digitalWrite(S3,HIGH);
   delay(100);
   Azul_Frec = pulseIn(sensorSalida, LOW);
- // Serial.print(" A= "); Serial.print(Azul_Frec);
+//  Serial.print(" A= "); Serial.print(Azul_Frec);
   delay(100);
 
 //Rango de colores
