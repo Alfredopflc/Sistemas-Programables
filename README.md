@@ -53,14 +53,14 @@
  
  ### :lock: UNIDAD 4: Protocolos de seguridad y comunicación
  - :star: [C4.1  Protocolo Bluetooth y el NodeMCU ESP32](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C4.1_JoseAlfredoVenegasMedina_Verde.md)
- - ✩ [A4.1 Circuito de control para activar y desactivar un motor DC, utilizando NodeMCU ESP32 por medio de Bluetooth](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A4.1_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [A4.1 Circuito de control para activar y desactivar un motor DC, utilizando NodeMCU ESP32 por medio de Bluetooth](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A4.1_JoseAlfredoVenegasMedina_Verde.md)
  - :star: [C4.2 Comunicacion por medio del protocolo Wi-Fi](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C4.2_JoseAlfredoVenegasMedina_Verde.md)
- - ✩ [A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A4.2_JoseAlfredoVenegasMedina_Verde.md)
+ - :star: [A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A4.2_JoseAlfredoVenegasMedina_Verde.md)
  
 ### :computer: UNIDAD 5: Interface
 - :star: [C5.1 Arquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un sensor](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C5.1_JoseAlfredoVenegasMedina_Verde.md)
 - :star: [C5.2 Arquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un actuador](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/blog/C5.2_JoseAlfredoVenegasMedina_Verde.md)
-- ✩ [A5.1 Actividad Final Identificación del color de un objeto](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A5.1_JoseAlfredoVenegasMedina_Verde.md)
+- :star: [A5.1 Actividad Final Identificación del color de un objeto](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A5.1_JoseAlfredoVenegasMedina_Verde.md)
   
  ### :pencil: Evaluaciones
  - :star: [A1.1 Evaluación de conocimiento basicos de electrónica](https://github.com/Alfredopflc/Sistemas-Programables/blob/master/docs/A1.1_JoseAlfredoVenegasMedina_Verde.md)
